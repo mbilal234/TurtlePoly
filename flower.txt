@@ -1,0 +1,6 @@
+False 0 0 blue
+False 50.0 50.0 black
+True 50.0 50.0 70.0 70.0 90.0  50.0 red
+False 90.0 50.0 green
+False 40.0 0.0 yellow
+True 40.0 0.0 20.0 20.0 0.0  0.0 red
