@@ -1,4 +1,4 @@
 False 0 0 red
-False 0 100 red
-False 100 0 red
+False 0 100.0 red
+False 100.0 0 red
 

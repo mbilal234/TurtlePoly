@@ -1,0 +1,8 @@
+False 0.0 0.0 red
+True 100.0 0.0 0.0 0.0 100.0  0.0 red
+True 0.0 100.0 0.0 0.0 100.0  0.0 red
+
+False 0.0 0.0 red
+False 0.0 100.0 red
+False 100.0 0.0 red
+
